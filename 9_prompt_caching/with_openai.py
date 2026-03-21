@@ -2,6 +2,7 @@ import os
 import time
 import requests
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
@@ -16,7 +17,8 @@ from typing import Dict, List, Tuple
 import hashlib
 from langchain_community.document_loaders import BSHTMLLoader
 
-# Configuration
+# Load environment variables from .env file automatically
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 CHUNK_SIZE = 300
 CHUNK_OVERLAP = 50
 MAX_TOKENS = 15000
@@ -29,13 +31,18 @@ query_cache: Dict[str, Tuple[str, float]] = {}
 
 class RAGQueryProcessor:
     def __init__(self):
-        # Set up OpenAI API key
+        # API keys are automatically loaded from .env file
         self.api_key = os.environ.get("OPENAI_API_KEY")
+        
         if not self.api_key:
-            self.api_key = input("Please enter your OpenAI API key: ")
-            os.environ["OPENAI_API_KEY"] = self.api_key
+            raise ValueError(
+                "OPENAI_API_KEY not found! "
+                "Please add it to your .env file:\n"
+                "OPENAI_API_KEY=sk-..."
+            )
 
         # Initialize language model and embeddings
+        # API key is automatically used by LangChain from environment
         self.llm = ChatOpenAI(
             model=MODEL_NAME,
             temperature=TEMPERATURE,
