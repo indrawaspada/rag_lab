@@ -1,0 +1,501 @@
+model,color,fuel_type,transmission,price,manufacture_date,sale_date,state,mileage
+Tesla Model 3,Midnight Silver,Electric,Automatic,118621.46,2026-02-28,2026-05-15,Illinois,345.9
+Tesla Cybertruck,White,Electric,Automatic,149019.84,2025-07-07,2025-09-16,California,333.2
+Tesla Model Y,Midnight Silver,Electric,Automatic,41016.17,2025-11-01,2025-12-18,New York,327.5
+Tesla Model X,White,Electric,Automatic,124829.98,2026-03-01,2026-05-21,Illinois,298.2
+Tesla Cybertruck,Grey,Electric,Automatic,83639.72,2025-03-24,2025-05-24,Illinois,318.0
+Tesla Model Y,Midnight Silver,Electric,Automatic,85692.87,2025-07-06,2025-07-30,Texas,351.1
+Tesla Model 3,White,Electric,Automatic,52106.31,2025-06-21,2025-07-28,Massachusetts,256.5
+Tesla Cybertruck,Blue,Electric,Automatic,127359.15,2026-02-05,2026-02-27,Massachusetts,279.1
+Tesla Model Y,White,Electric,Automatic,54361.09,2025-10-19,2026-01-11,California,314.8
+Tesla Model X,Grey,Electric,Automatic,46890.28,2025-11-28,2025-12-12,New York,255.3
+Tesla Model Y,White,Electric,Automatic,140945.43,2025-10-06,2025-12-31,New York,320.2
+Tesla Model 3,Blue,Electric,Automatic,56213.35,2025-11-22,2026-02-07,Washington,365.9
+Tesla Model S,Midnight Silver,Electric,Automatic,112705.9,2025-10-05,2025-11-22,Washington,339.0
+Tesla Model X,Black,Electric,Automatic,133226.85,2025-10-02,2025-12-27,Illinois,310.6
+Tesla Model Y,Silver,Electric,Automatic,46496.65,2025-11-27,2025-12-12,Washington,331.5
+Tesla Model X,Silver,Electric,Automatic,43970.33,2025-06-22,2025-07-07,Massachusetts,290.0
+Tesla Roadster,Midnight Silver,Electric,Automatic,60549.33,2025-06-22,2025-08-19,Massachusetts,376.9
+Tesla Cybertruck,White,Electric,Automatic,50647.5,2026-01-30,2026-03-22,Illinois,293.8
+Tesla Model S,White,Electric,Automatic,121544.95,2025-06-03,2025-07-15,Massachusetts,278.6
+Tesla Model S,Blue,Electric,Automatic,114407.06,2025-08-06,2025-09-05,Illinois,361.3
+Tesla Cybertruck,Black,Electric,Automatic,135145.71,2026-01-14,2026-03-21,Massachusetts,364.5
+Tesla Model S,Midnight Silver,Electric,Automatic,127710.3,2026-01-30,2026-04-10,Texas,361.0
+Tesla Model S,Red,Electric,Automatic,143269.32,2025-03-30,2025-06-18,Washington,318.6
+Tesla Model Y,Black,Electric,Automatic,51662.4,2025-11-22,2026-01-23,Massachusetts,348.2
+Tesla Roadster,White,Electric,Automatic,125724.86,2025-05-21,2025-06-28,California,324.6
+Tesla Roadster,Red,Electric,Automatic,138563.48,2025-12-02,2025-12-26,Texas,365.1
+Tesla Model Y,Red,Electric,Automatic,93605.99,2025-04-09,2025-06-03,Washington,299.1
+Tesla Model S,White,Electric,Automatic,128714.47,2025-04-26,2025-05-28,Florida,259.7
+Tesla Roadster,Blue,Electric,Automatic,71840.86,2025-04-01,2025-06-01,Texas,257.0
+Tesla Model 3,Grey,Electric,Automatic,95951.77,2025-09-25,2025-12-22,Washington,388.6
+Tesla Model X,Grey,Electric,Automatic,143017.56,2025-12-23,2026-01-31,Texas,261.6
+Tesla Model X,Black,Electric,Automatic,53948.12,2026-01-24,2026-04-11,New York,321.3
+Tesla Model 3,Grey,Electric,Automatic,70624.62,2025-05-31,2025-06-15,Florida,327.6
+Tesla Model Y,Blue,Electric,Automatic,71892.94,2025-04-16,2025-07-15,Washington,369.5
+Tesla Model Y,Blue,Electric,Automatic,120045.86,2026-01-04,2026-02-16,Massachusetts,319.5
+Tesla Model Y,Midnight Silver,Electric,Automatic,138206.96,2025-11-21,2026-01-11,California,341.3
+Tesla Model S,Black,Electric,Automatic,104887.21,2025-12-07,2025-12-20,Washington,316.5
+Tesla Model X,Silver,Electric,Automatic,114087.65,2025-05-22,2025-07-20,Texas,262.0
+Tesla Cybertruck,White,Electric,Automatic,73109.52,2025-04-03,2025-05-03,Illinois,286.5
+Tesla Model Y,Silver,Electric,Automatic,113013.82,2025-10-23,2025-10-30,Washington,252.4
+Tesla Model 3,Silver,Electric,Automatic,102745.74,2025-04-14,2025-05-30,Illinois,305.1
+Tesla Model Y,Midnight Silver,Electric,Automatic,43218.9,2025-12-20,2026-01-20,Washington,383.4
+Tesla Roadster,Blue,Electric,Automatic,81688.3,2025-05-28,2025-08-08,Massachusetts,250.3
+Tesla Roadster,White,Electric,Automatic,102484.53,2025-12-27,2026-02-17,Massachusetts,387.5
+Tesla Model Y,Blue,Electric,Automatic,43959.94,2025-10-31,2025-11-25,Texas,276.5
+Tesla Model Y,Red,Electric,Automatic,78280.41,2025-07-14,2025-07-29,Massachusetts,267.3
+Tesla Model Y,Red,Electric,Automatic,118188.93,2025-07-10,2025-07-28,New York,340.5
+Tesla Model Y,Blue,Electric,Automatic,37859.2,2025-09-11,2025-12-03,California,250.2
+Tesla Model X,Silver,Electric,Automatic,121725.16,2025-08-13,2025-09-24,California,314.6
+Tesla Roadster,Blue,Electric,Automatic,80543.66,2025-03-28,2025-06-13,Illinois,327.2
+Tesla Model X,Red,Electric,Automatic,70041.25,2026-01-26,2026-02-10,Massachusetts,380.1
+Tesla Model 3,Black,Electric,Automatic,130931.36,2025-08-26,2025-11-02,Massachusetts,393.2
+Tesla Roadster,Midnight Silver,Electric,Automatic,45170.68,2025-08-08,2025-09-14,Florida,341.2
+Tesla Model Y,Blue,Electric,Automatic,72692.33,2025-09-22,2025-09-26,New York,376.0
+Tesla Roadster,Silver,Electric,Automatic,80420.13,2026-02-24,2026-05-04,Florida,281.1
+Tesla Model S,Red,Electric,Automatic,47873.16,2025-05-17,2025-08-13,California,267.4
+Tesla Model S,Grey,Electric,Automatic,38504.8,2025-06-28,2025-08-04,Illinois,292.8
+Tesla Model X,Red,Electric,Automatic,126704.84,2025-07-15,2025-09-04,New York,300.0
+Tesla Model S,Midnight Silver,Electric,Automatic,103684.37,2025-12-02,2025-12-30,Illinois,366.6
+Tesla Model S,Grey,Electric,Automatic,67393.94,2025-04-07,2025-06-10,Washington,357.8
+Tesla Model X,Midnight Silver,Electric,Automatic,57625.13,2026-01-27,2026-02-22,Washington,303.9
+Tesla Roadster,Blue,Electric,Automatic,75739.19,2026-02-13,2026-02-17,Florida,387.1
+Tesla Roadster,Midnight Silver,Electric,Automatic,118442.38,2025-12-14,2026-01-14,Massachusetts,320.0
+Tesla Model Y,Black,Electric,Automatic,120214.69,2025-04-02,2025-06-03,Illinois,356.5
+Tesla Model 3,Grey,Electric,Automatic,146241.1,2025-04-06,2025-04-07,Texas,310.0
+Tesla Roadster,White,Electric,Automatic,89212.16,2025-07-23,2025-09-21,Texas,309.7
+Tesla Model X,Silver,Electric,Automatic,48615.75,2025-09-06,2025-10-27,Texas,339.2
+Tesla Model S,Grey,Electric,Automatic,44239.42,2025-05-21,2025-06-18,California,307.5
+Tesla Model S,Black,Electric,Automatic,111123.54,2026-01-31,2026-04-04,Illinois,322.0
+Tesla Model S,Red,Electric,Automatic,128262.77,2025-10-09,2025-11-21,Illinois,361.1
+Tesla Roadster,Blue,Electric,Automatic,58901.54,2025-08-21,2025-09-27,Florida,256.4
+Tesla Model 3,White,Electric,Automatic,60911.82,2026-02-14,2026-02-25,Texas,284.0
+Tesla Model S,Blue,Electric,Automatic,105277.4,2025-05-24,2025-08-04,California,296.4
+Tesla Model X,Grey,Electric,Automatic,89857.26,2026-02-17,2026-02-19,Texas,331.0
+Tesla Model Y,Silver,Electric,Automatic,105128.63,2025-09-29,2025-10-20,Massachusetts,253.3
+Tesla Model S,Blue,Electric,Automatic,37879.55,2025-05-20,2025-07-16,New York,364.3
+Tesla Roadster,Black,Electric,Automatic,38024.74,2025-09-06,2025-11-19,Texas,386.8
+Tesla Roadster,Silver,Electric,Automatic,134710.93,2025-11-20,2026-01-10,Texas,303.6
+Tesla Model 3,Red,Electric,Automatic,113390.9,2025-07-07,2025-09-01,California,264.7
+Tesla Model X,Grey,Electric,Automatic,96961.44,2025-05-10,2025-08-05,Illinois,332.5
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,134022.2,2025-04-30,2025-05-14,Florida,302.8
+Tesla Cybertruck,Red,Electric,Automatic,96061.83,2025-08-13,2025-10-13,Washington,311.8
+Tesla Roadster,Silver,Electric,Automatic,134035.31,2026-01-09,2026-02-12,Florida,380.7
+Tesla Model S,Midnight Silver,Electric,Automatic,129478.03,2025-12-15,2025-12-19,Illinois,314.2
+Tesla Model X,Red,Electric,Automatic,72852.32,2025-05-21,2025-07-22,New York,393.0
+Tesla Model S,Black,Electric,Automatic,140621.67,2026-01-28,2026-04-16,Washington,350.6
+Tesla Model X,Black,Electric,Automatic,122120.35,2025-03-22,2025-04-11,Texas,256.7
+Tesla Model Y,Silver,Electric,Automatic,102814.37,2026-01-08,2026-03-11,Massachusetts,373.4
+Tesla Roadster,Red,Electric,Automatic,50159.18,2026-03-14,2026-05-24,California,346.0
+Tesla Model S,Grey,Electric,Automatic,149274.01,2025-03-31,2025-04-16,New York,362.6
+Tesla Model X,White,Electric,Automatic,140455.0,2026-02-19,2026-04-25,New York,283.8
+Tesla Model S,Blue,Electric,Automatic,139640.14,2026-01-16,2026-03-10,Massachusetts,377.2
+Tesla Cybertruck,Grey,Electric,Automatic,137854.82,2025-04-17,2025-05-06,New York,372.0
+Tesla Cybertruck,Black,Electric,Automatic,102353.37,2025-11-18,2025-12-07,Illinois,309.2
+Tesla Model 3,Grey,Electric,Automatic,64270.17,2025-10-22,2026-01-20,Texas,390.2
+Tesla Cybertruck,Red,Electric,Automatic,41912.24,2025-04-04,2025-05-25,Illinois,344.1
+Tesla Model Y,Grey,Electric,Automatic,96211.53,2025-04-24,2025-06-06,New York,272.7
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,52906.72,2025-10-09,2025-12-18,Florida,366.1
+Tesla Model S,Midnight Silver,Electric,Automatic,101330.77,2025-09-03,2025-10-27,New York,285.6
+Tesla Roadster,Silver,Electric,Automatic,91096.65,2025-06-30,2025-08-08,Massachusetts,347.3
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,52316.94,2025-07-07,2025-08-20,Florida,335.5
+Tesla Model Y,Midnight Silver,Electric,Automatic,52484.67,2025-10-07,2025-11-19,Florida,385.2
+Tesla Model 3,Silver,Electric,Automatic,107572.78,2025-03-30,2025-06-24,Texas,363.3
+Tesla Model S,Midnight Silver,Electric,Automatic,95901.5,2025-09-16,2025-11-01,Washington,307.4
+Tesla Model 3,Midnight Silver,Electric,Automatic,37018.38,2026-01-25,2026-04-15,New York,360.8
+Tesla Roadster,Silver,Electric,Automatic,129870.98,2025-12-23,2026-02-06,Massachusetts,344.9
+Tesla Model S,Grey,Electric,Automatic,118657.04,2025-12-16,2026-01-23,Illinois,325.2
+Tesla Model Y,Silver,Electric,Automatic,85576.38,2026-01-26,2026-02-04,California,356.4
+Tesla Model 3,Grey,Electric,Automatic,105571.1,2026-01-10,2026-01-18,California,315.5
+Tesla Roadster,Black,Electric,Automatic,131483.28,2025-09-27,2025-10-06,Texas,361.9
+Tesla Roadster,Red,Electric,Automatic,51250.9,2025-06-23,2025-07-15,California,372.7
+Tesla Roadster,Silver,Electric,Automatic,87620.61,2025-09-25,2025-12-03,California,389.2
+Tesla Model Y,White,Electric,Automatic,98744.06,2025-09-02,2025-09-30,Massachusetts,347.2
+Tesla Model X,White,Electric,Automatic,35609.32,2025-05-01,2025-07-04,New York,300.7
+Tesla Model 3,Blue,Electric,Automatic,104483.95,2025-07-12,2025-09-25,New York,290.8
+Tesla Cybertruck,Silver,Electric,Automatic,124504.42,2026-03-11,2026-05-16,Illinois,322.7
+Tesla Model Y,Grey,Electric,Automatic,62382.23,2026-01-07,2026-02-08,Washington,358.6
+Tesla Model Y,Blue,Electric,Automatic,60103.24,2025-03-21,2025-03-29,Illinois,335.8
+Tesla Model Y,White,Electric,Automatic,87145.13,2025-10-09,2025-10-27,Texas,387.3
+Tesla Roadster,Red,Electric,Automatic,67905.49,2025-09-28,2025-10-13,Texas,295.1
+Tesla Cybertruck,White,Electric,Automatic,146255.02,2026-01-10,2026-01-23,Illinois,270.1
+Tesla Model 3,Black,Electric,Automatic,143387.93,2025-10-03,2025-10-07,Florida,395.3
+Tesla Cybertruck,Black,Electric,Automatic,149468.12,2026-01-21,2026-01-24,New York,265.9
+Tesla Roadster,Blue,Electric,Automatic,147116.4,2025-11-24,2025-12-20,New York,302.2
+Tesla Model X,Black,Electric,Automatic,126291.32,2025-07-02,2025-09-09,New York,255.3
+Tesla Model S,Grey,Electric,Automatic,81676.57,2025-12-08,2026-02-06,Texas,292.6
+Tesla Model S,White,Electric,Automatic,39400.51,2025-03-21,2025-05-09,Florida,293.4
+Tesla Model 3,Black,Electric,Automatic,108827.45,2025-08-25,2025-11-18,California,377.0
+Tesla Model S,Midnight Silver,Electric,Automatic,118549.28,2025-10-13,2025-10-30,Washington,273.0
+Tesla Model X,Blue,Electric,Automatic,109348.93,2025-10-07,2025-11-29,New York,285.8
+Tesla Model X,White,Electric,Automatic,47681.97,2026-02-27,2026-04-21,California,383.0
+Tesla Model 3,Blue,Electric,Automatic,85720.26,2025-08-11,2025-10-24,New York,291.9
+Tesla Model Y,White,Electric,Automatic,122880.41,2025-09-03,2025-10-20,Florida,381.8
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,100752.85,2025-07-28,2025-08-30,Washington,356.1
+Tesla Model X,White,Electric,Automatic,83940.26,2025-10-25,2025-12-24,New York,319.7
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,110261.05,2025-04-11,2025-06-09,California,331.6
+Tesla Model S,Silver,Electric,Automatic,89559.87,2025-11-23,2025-12-01,Texas,283.1
+Tesla Model Y,White,Electric,Automatic,69775.37,2025-09-02,2025-11-23,Washington,361.7
+Tesla Model S,Silver,Electric,Automatic,45084.82,2026-03-13,2026-06-09,Texas,279.2
+Tesla Model X,Silver,Electric,Automatic,128229.89,2025-09-14,2025-09-25,California,336.2
+Tesla Model X,Silver,Electric,Automatic,145537.05,2025-11-12,2026-02-06,New York,358.4
+Tesla Model X,Blue,Electric,Automatic,143453.02,2025-11-12,2025-11-13,Massachusetts,342.1
+Tesla Roadster,White,Electric,Automatic,69421.36,2026-01-11,2026-01-20,California,251.2
+Tesla Model X,Black,Electric,Automatic,131405.19,2025-09-01,2025-09-13,Florida,294.3
+Tesla Model X,Black,Electric,Automatic,67205.83,2025-11-27,2026-01-14,Washington,361.8
+Tesla Model Y,Silver,Electric,Automatic,62420.39,2025-04-13,2025-05-24,New York,279.5
+Tesla Model 3,Midnight Silver,Electric,Automatic,145620.59,2025-08-01,2025-10-22,Massachusetts,285.2
+Tesla Model X,Black,Electric,Automatic,104016.24,2025-09-12,2025-10-05,Massachusetts,283.8
+Tesla Model Y,Grey,Electric,Automatic,114710.63,2025-03-21,2025-06-02,Florida,390.6
+Tesla Model 3,Blue,Electric,Automatic,93543.11,2025-07-22,2025-08-07,Texas,398.1
+Tesla Model Y,Grey,Electric,Automatic,67332.62,2025-08-18,2025-08-28,Texas,317.2
+Tesla Model S,Black,Electric,Automatic,60870.59,2026-03-15,2026-04-10,Massachusetts,341.8
+Tesla Model X,Blue,Electric,Automatic,73334.04,2026-01-24,2026-04-08,Washington,355.5
+Tesla Model Y,Grey,Electric,Automatic,114539.95,2025-04-26,2025-07-11,Washington,289.1
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,98550.15,2025-09-27,2025-10-18,Illinois,312.8
+Tesla Cybertruck,Blue,Electric,Automatic,43655.21,2025-04-01,2025-05-08,Texas,284.2
+Tesla Model Y,Grey,Electric,Automatic,125088.78,2025-09-13,2025-11-07,Texas,341.5
+Tesla Model 3,Black,Electric,Automatic,68697.83,2025-07-26,2025-08-31,New York,353.6
+Tesla Model X,Silver,Electric,Automatic,116063.37,2025-06-29,2025-07-23,Florida,324.0
+Tesla Model Y,Grey,Electric,Automatic,137172.53,2025-11-15,2026-01-13,Texas,335.6
+Tesla Model X,Silver,Electric,Automatic,124255.12,2025-06-19,2025-07-21,Washington,333.3
+Tesla Model 3,Midnight Silver,Electric,Automatic,137853.71,2025-04-06,2025-05-30,Massachusetts,388.3
+Tesla Model X,Blue,Electric,Automatic,145064.61,2025-04-19,2025-06-21,Texas,396.7
+Tesla Model 3,Silver,Electric,Automatic,96074.03,2025-09-05,2025-11-26,California,380.2
+Tesla Model Y,Black,Electric,Automatic,145244.8,2025-10-31,2025-12-02,Washington,253.5
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,46385.54,2025-12-14,2026-01-05,California,262.1
+Tesla Model 3,Grey,Electric,Automatic,93674.38,2025-11-22,2026-01-01,New York,258.4
+Tesla Model X,Blue,Electric,Automatic,56372.65,2025-11-23,2025-12-13,Illinois,391.5
+Tesla Model Y,Silver,Electric,Automatic,67335.6,2025-12-27,2026-03-16,Massachusetts,351.7
+Tesla Cybertruck,Silver,Electric,Automatic,111868.27,2025-09-10,2025-10-30,Florida,329.2
+Tesla Model X,Silver,Electric,Automatic,120187.55,2026-02-05,2026-04-06,New York,334.7
+Tesla Model 3,White,Electric,Automatic,62090.06,2026-01-22,2026-04-03,Florida,347.0
+Tesla Roadster,Red,Electric,Automatic,53998.54,2026-01-25,2026-03-25,New York,360.5
+Tesla Cybertruck,Red,Electric,Automatic,130857.99,2025-10-29,2026-01-13,Florida,390.7
+Tesla Model S,Black,Electric,Automatic,102654.4,2025-11-30,2025-12-29,Illinois,272.4
+Tesla Cybertruck,Black,Electric,Automatic,57303.85,2025-11-10,2025-12-22,Washington,327.8
+Tesla Cybertruck,Blue,Electric,Automatic,97667.57,2025-07-08,2025-08-30,Illinois,315.6
+Tesla Model Y,Grey,Electric,Automatic,51329.55,2025-04-16,2025-05-07,Texas,336.1
+Tesla Model X,Black,Electric,Automatic,45124.52,2026-02-05,2026-02-07,California,332.5
+Tesla Roadster,Red,Electric,Automatic,149728.02,2025-05-12,2025-06-15,Florida,329.8
+Tesla Model 3,White,Electric,Automatic,52323.72,2025-07-08,2025-08-14,Massachusetts,279.7
+Tesla Model 3,Silver,Electric,Automatic,47106.87,2025-06-04,2025-06-19,Florida,355.0
+Tesla Model S,Midnight Silver,Electric,Automatic,77758.79,2026-01-14,2026-02-20,Florida,294.8
+Tesla Model X,Silver,Electric,Automatic,104418.42,2026-02-11,2026-04-15,New York,381.4
+Tesla Model X,White,Electric,Automatic,101835.91,2025-08-13,2025-09-12,Massachusetts,263.0
+Tesla Roadster,Black,Electric,Automatic,76889.47,2025-11-08,2026-01-11,New York,253.7
+Tesla Model X,Black,Electric,Automatic,82036.97,2026-02-07,2026-04-12,Washington,364.2
+Tesla Model Y,Midnight Silver,Electric,Automatic,96288.85,2025-11-04,2025-12-23,New York,357.3
+Tesla Model 3,Red,Electric,Automatic,84530.38,2025-07-13,2025-10-11,Illinois,324.1
+Tesla Model S,Grey,Electric,Automatic,99899.07,2025-10-09,2025-10-13,Washington,392.2
+Tesla Model Y,Grey,Electric,Automatic,52279.24,2025-08-25,2025-09-20,New York,307.2
+Tesla Cybertruck,White,Electric,Automatic,36950.23,2025-05-07,2025-06-22,Illinois,254.6
+Tesla Roadster,Midnight Silver,Electric,Automatic,108761.45,2025-06-28,2025-08-19,Massachusetts,296.1
+Tesla Model 3,Red,Electric,Automatic,104788.9,2026-03-15,2026-04-19,Illinois,348.1
+Tesla Model Y,Grey,Electric,Automatic,47387.46,2025-06-09,2025-07-29,Florida,372.5
+Tesla Model S,Black,Electric,Automatic,74539.28,2026-02-20,2026-03-18,California,311.5
+Tesla Roadster,Midnight Silver,Electric,Automatic,95213.18,2025-06-06,2025-08-05,California,335.5
+Tesla Model S,White,Electric,Automatic,73556.91,2026-01-02,2026-01-16,Texas,288.2
+Tesla Cybertruck,Silver,Electric,Automatic,54273.78,2026-01-05,2026-02-16,Illinois,291.4
+Tesla Cybertruck,Silver,Electric,Automatic,67984.39,2025-07-15,2025-10-08,Washington,307.5
+Tesla Cybertruck,White,Electric,Automatic,106098.98,2025-06-15,2025-06-23,Washington,285.0
+Tesla Model S,Grey,Electric,Automatic,117823.99,2025-08-12,2025-09-24,Florida,255.8
+Tesla Model S,Black,Electric,Automatic,123705.11,2025-08-21,2025-09-11,New York,275.8
+Tesla Roadster,Blue,Electric,Automatic,93709.06,2026-02-27,2026-04-15,Florida,347.6
+Tesla Roadster,Midnight Silver,Electric,Automatic,50854.97,2025-10-15,2025-10-28,Washington,337.2
+Tesla Roadster,Red,Electric,Automatic,142175.41,2025-08-08,2025-09-08,Illinois,341.6
+Tesla Model S,Red,Electric,Automatic,76958.49,2026-01-09,2026-03-06,New York,347.1
+Tesla Model Y,Midnight Silver,Electric,Automatic,66542.18,2025-08-17,2025-09-18,Illinois,340.0
+Tesla Cybertruck,Silver,Electric,Automatic,111859.3,2026-01-02,2026-02-27,Texas,363.3
+Tesla Model Y,Blue,Electric,Automatic,112202.77,2025-12-20,2026-01-09,Illinois,347.6
+Tesla Model X,Blue,Electric,Automatic,73611.45,2025-06-29,2025-07-13,Massachusetts,260.9
+Tesla Model X,Red,Electric,Automatic,40322.12,2026-03-03,2026-06-01,Massachusetts,378.0
+Tesla Model S,Silver,Electric,Automatic,144133.19,2025-04-03,2025-05-26,Massachusetts,305.3
+Tesla Roadster,Blue,Electric,Automatic,125085.42,2025-11-10,2026-02-03,California,256.6
+Tesla Model S,Midnight Silver,Electric,Automatic,119470.78,2025-11-06,2025-11-11,New York,299.3
+Tesla Model 3,Red,Electric,Automatic,133347.57,2025-06-06,2025-06-27,Massachusetts,330.4
+Tesla Model 3,Midnight Silver,Electric,Automatic,110603.62,2026-03-14,2026-03-19,Massachusetts,324.3
+Tesla Model X,Midnight Silver,Electric,Automatic,46318.3,2025-05-16,2025-07-26,Texas,383.5
+Tesla Model S,Red,Electric,Automatic,70040.39,2025-12-25,2026-02-15,California,307.5
+Tesla Cybertruck,Red,Electric,Automatic,65824.14,2025-03-28,2025-06-19,Illinois,378.2
+Tesla Cybertruck,Blue,Electric,Automatic,82847.65,2025-06-27,2025-09-15,Washington,356.3
+Tesla Model 3,Black,Electric,Automatic,97510.36,2025-09-10,2025-11-30,Texas,324.3
+Tesla Cybertruck,Red,Electric,Automatic,145890.21,2025-12-03,2026-02-19,New York,260.0
+Tesla Cybertruck,Red,Electric,Automatic,66012.48,2025-12-26,2026-01-10,California,393.9
+Tesla Model S,Silver,Electric,Automatic,136179.43,2026-03-11,2026-04-26,Illinois,313.9
+Tesla Model X,Red,Electric,Automatic,139620.56,2025-09-17,2025-10-06,Florida,314.2
+Tesla Model X,Midnight Silver,Electric,Automatic,128224.0,2025-11-20,2025-12-23,Illinois,276.3
+Tesla Cybertruck,Grey,Electric,Automatic,105975.29,2026-01-09,2026-03-27,New York,337.8
+Tesla Cybertruck,Silver,Electric,Automatic,44236.06,2025-10-18,2025-11-10,California,356.8
+Tesla Model 3,Silver,Electric,Automatic,140561.86,2026-02-24,2026-04-25,Illinois,395.8
+Tesla Cybertruck,White,Electric,Automatic,57913.83,2025-06-06,2025-07-21,Illinois,277.1
+Tesla Model Y,Silver,Electric,Automatic,141441.57,2025-10-22,2025-11-19,Washington,352.7
+Tesla Model Y,Grey,Electric,Automatic,63447.46,2026-03-19,2026-06-14,California,326.7
+Tesla Roadster,Blue,Electric,Automatic,95640.02,2026-01-22,2026-02-03,Texas,254.2
+Tesla Model Y,Silver,Electric,Automatic,138032.4,2025-10-17,2025-12-31,California,333.0
+Tesla Model 3,Grey,Electric,Automatic,63915.42,2025-09-25,2025-10-18,California,320.4
+Tesla Model 3,Black,Electric,Automatic,66600.36,2025-10-11,2025-11-04,Washington,397.2
+Tesla Model S,Silver,Electric,Automatic,140335.63,2025-07-26,2025-09-18,Florida,398.4
+Tesla Roadster,Midnight Silver,Electric,Automatic,101358.96,2025-12-08,2025-12-10,Washington,318.4
+Tesla Model X,Midnight Silver,Electric,Automatic,140217.37,2025-11-11,2025-12-10,Washington,327.0
+Tesla Model 3,Midnight Silver,Electric,Automatic,87790.89,2025-12-24,2026-03-22,Florida,276.5
+Tesla Roadster,Blue,Electric,Automatic,44540.73,2025-11-08,2026-01-21,Illinois,359.1
+Tesla Model X,Midnight Silver,Electric,Automatic,44523.07,2026-01-06,2026-02-05,Washington,368.1
+Tesla Model S,Black,Electric,Automatic,121797.5,2025-07-22,2025-09-20,Illinois,391.8
+Tesla Model S,Grey,Electric,Automatic,141716.74,2025-07-25,2025-09-03,New York,366.8
+Tesla Model 3,Black,Electric,Automatic,42647.54,2025-08-25,2025-09-10,New York,294.6
+Tesla Model X,Grey,Electric,Automatic,85916.4,2025-06-18,2025-08-04,Illinois,319.5
+Tesla Roadster,Red,Electric,Automatic,135746.58,2026-01-08,2026-02-07,Washington,286.7
+Tesla Roadster,Grey,Electric,Automatic,93696.85,2026-02-24,2026-05-23,California,388.7
+Tesla Model S,Silver,Electric,Automatic,86812.04,2025-05-27,2025-08-20,California,359.5
+Tesla Roadster,Red,Electric,Automatic,66716.78,2025-10-14,2025-12-21,Washington,326.8
+Tesla Roadster,Grey,Electric,Automatic,62498.67,2026-02-25,2026-04-22,Washington,309.4
+Tesla Model S,White,Electric,Automatic,86661.68,2025-09-23,2025-09-25,Illinois,380.7
+Tesla Model Y,Blue,Electric,Automatic,128601.1,2025-08-05,2025-09-24,Texas,309.4
+Tesla Cybertruck,Grey,Electric,Automatic,69737.28,2025-07-23,2025-08-01,Washington,335.5
+Tesla Cybertruck,White,Electric,Automatic,110033.69,2025-09-06,2025-12-01,California,380.1
+Tesla Roadster,White,Electric,Automatic,66068.81,2026-03-07,2026-03-25,Washington,319.9
+Tesla Model 3,Red,Electric,Automatic,113503.24,2025-11-08,2026-01-01,California,273.3
+Tesla Model 3,Black,Electric,Automatic,142861.98,2025-07-23,2025-08-05,Texas,297.5
+Tesla Model S,Silver,Electric,Automatic,140521.62,2025-08-20,2025-10-31,Texas,256.4
+Tesla Model 3,Silver,Electric,Automatic,61479.78,2025-09-08,2025-11-18,New York,282.1
+Tesla Model S,Silver,Electric,Automatic,97658.63,2025-12-08,2026-02-26,Washington,257.7
+Tesla Model Y,Grey,Electric,Automatic,41595.84,2025-11-14,2025-12-11,Florida,270.8
+Tesla Cybertruck,Grey,Electric,Automatic,105580.23,2025-10-07,2025-12-08,Illinois,308.2
+Tesla Model S,Black,Electric,Automatic,60366.54,2025-03-21,2025-06-01,Washington,310.0
+Tesla Model Y,Midnight Silver,Electric,Automatic,77578.26,2026-01-22,2026-02-01,Texas,253.3
+Tesla Model S,Grey,Electric,Automatic,80116.38,2025-04-05,2025-04-19,California,302.3
+Tesla Model X,Silver,Electric,Automatic,115290.71,2025-12-08,2026-02-22,New York,252.3
+Tesla Roadster,White,Electric,Automatic,70416.2,2025-08-12,2025-08-14,Texas,280.9
+Tesla Model S,Midnight Silver,Electric,Automatic,133591.25,2025-07-08,2025-09-16,Massachusetts,327.1
+Tesla Roadster,Red,Electric,Automatic,68107.08,2025-12-26,2026-01-19,California,383.1
+Tesla Cybertruck,White,Electric,Automatic,59781.75,2025-09-21,2025-12-16,Florida,271.6
+Tesla Model S,White,Electric,Automatic,94513.06,2025-03-24,2025-04-13,Illinois,359.5
+Tesla Model 3,Silver,Electric,Automatic,88559.38,2026-01-04,2026-04-01,California,305.8
+Tesla Model 3,White,Electric,Automatic,133802.26,2025-09-03,2025-11-01,Florida,342.3
+Tesla Model X,Silver,Electric,Automatic,116749.19,2025-09-20,2025-12-13,Washington,341.6
+Tesla Model S,White,Electric,Automatic,122198.79,2025-09-27,2025-12-02,Massachusetts,272.1
+Tesla Model 3,Midnight Silver,Electric,Automatic,113134.79,2025-03-29,2025-04-11,Massachusetts,399.0
+Tesla Model 3,Silver,Electric,Automatic,72344.37,2026-03-05,2026-03-13,New York,335.2
+Tesla Model X,Midnight Silver,Electric,Automatic,106371.36,2025-08-16,2025-10-05,Washington,348.7
+Tesla Cybertruck,Silver,Electric,Automatic,53370.88,2025-09-26,2025-10-10,Texas,348.9
+Tesla Model Y,Black,Electric,Automatic,131086.86,2025-08-28,2025-10-22,Illinois,339.6
+Tesla Cybertruck,Blue,Electric,Automatic,121004.88,2025-12-11,2026-02-11,Florida,367.9
+Tesla Model 3,Silver,Electric,Automatic,35252.18,2025-07-24,2025-09-22,New York,363.6
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,59753.95,2025-11-20,2025-12-14,Texas,263.6
+Tesla Model 3,Midnight Silver,Electric,Automatic,147634.74,2025-09-15,2025-12-01,Florida,294.5
+Tesla Cybertruck,White,Electric,Automatic,105847.1,2025-05-20,2025-07-08,Florida,375.7
+Tesla Model X,Blue,Electric,Automatic,119856.25,2025-05-26,2025-08-02,Illinois,329.6
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,92581.96,2025-05-17,2025-07-18,Florida,359.9
+Tesla Roadster,Blue,Electric,Automatic,48188.16,2025-11-03,2025-11-28,Washington,323.5
+Tesla Model X,Red,Electric,Automatic,138602.96,2025-06-28,2025-08-12,Florida,260.7
+Tesla Cybertruck,Silver,Electric,Automatic,125906.61,2026-02-27,2026-03-25,New York,322.8
+Tesla Model X,Red,Electric,Automatic,119789.74,2026-03-19,2026-06-09,Florida,292.2
+Tesla Model S,Black,Electric,Automatic,112532.5,2025-08-13,2025-10-08,California,354.5
+Tesla Roadster,Midnight Silver,Electric,Automatic,55254.08,2025-11-01,2025-12-05,Massachusetts,321.8
+Tesla Model S,Grey,Electric,Automatic,97476.3,2025-12-02,2025-12-18,Massachusetts,284.5
+Tesla Model X,Red,Electric,Automatic,135024.63,2025-11-03,2025-11-09,California,306.2
+Tesla Model S,Blue,Electric,Automatic,141188.09,2025-11-10,2026-01-17,California,254.8
+Tesla Roadster,Blue,Electric,Automatic,115327.35,2026-03-01,2026-03-08,California,250.0
+Tesla Cybertruck,Black,Electric,Automatic,109134.63,2025-09-18,2025-12-03,Florida,356.9
+Tesla Roadster,Red,Electric,Automatic,89663.8,2025-10-16,2025-11-23,Florida,262.5
+Tesla Model S,White,Electric,Automatic,123018.47,2025-10-25,2026-01-10,Texas,385.3
+Tesla Model 3,Red,Electric,Automatic,86400.0,2025-08-05,2025-09-04,New York,263.3
+Tesla Model 3,Silver,Electric,Automatic,119902.92,2025-06-04,2025-08-23,California,263.6
+Tesla Model X,White,Electric,Automatic,145135.59,2025-07-21,2025-08-06,Illinois,398.5
+Tesla Model X,Blue,Electric,Automatic,113785.23,2025-07-28,2025-10-19,Massachusetts,348.6
+Tesla Roadster,Grey,Electric,Automatic,78903.48,2025-04-10,2025-05-02,California,309.0
+Tesla Model X,Blue,Electric,Automatic,116104.58,2026-03-01,2026-03-17,Texas,288.5
+Tesla Cybertruck,White,Electric,Automatic,86970.19,2025-09-09,2025-11-23,New York,270.4
+Tesla Cybertruck,White,Electric,Automatic,50046.77,2025-12-29,2026-03-13,New York,317.8
+Tesla Model S,Silver,Electric,Automatic,110613.5,2026-03-07,2026-03-12,Illinois,265.7
+Tesla Roadster,Silver,Electric,Automatic,57893.07,2025-10-12,2025-10-15,Washington,344.3
+Tesla Model 3,Midnight Silver,Electric,Automatic,84996.32,2026-02-21,2026-03-15,Illinois,252.5
+Tesla Model X,Silver,Electric,Automatic,78057.75,2025-10-11,2025-10-23,Washington,389.2
+Tesla Model S,Silver,Electric,Automatic,61571.71,2025-04-18,2025-05-23,New York,274.0
+Tesla Cybertruck,Blue,Electric,Automatic,87238.25,2025-08-15,2025-11-02,Massachusetts,262.5
+Tesla Roadster,Blue,Electric,Automatic,99154.69,2025-11-09,2025-12-28,Illinois,352.6
+Tesla Cybertruck,Red,Electric,Automatic,105453.47,2025-07-07,2025-08-16,Texas,311.4
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,147127.83,2025-05-30,2025-07-22,Florida,273.0
+Tesla Roadster,Red,Electric,Automatic,43577.29,2025-09-07,2025-11-19,Illinois,275.9
+Tesla Cybertruck,Grey,Electric,Automatic,135154.39,2026-01-20,2026-03-29,Washington,282.1
+Tesla Model Y,Grey,Electric,Automatic,62782.99,2025-05-18,2025-08-10,Illinois,291.9
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,148468.48,2025-10-02,2025-12-31,Washington,344.1
+Tesla Model 3,Blue,Electric,Automatic,108875.15,2025-11-11,2025-12-03,Massachusetts,398.7
+Tesla Roadster,Midnight Silver,Electric,Automatic,55324.89,2025-05-01,2025-05-24,Florida,396.2
+Tesla Model Y,Blue,Electric,Automatic,51954.04,2025-08-21,2025-09-08,Washington,311.8
+Tesla Model Y,Silver,Electric,Automatic,136485.78,2026-02-15,2026-02-16,California,365.8
+Tesla Model S,Red,Electric,Automatic,140564.26,2025-11-22,2026-02-01,California,352.8
+Tesla Model S,Silver,Electric,Automatic,71726.13,2026-02-10,2026-04-04,Florida,348.6
+Tesla Roadster,Black,Electric,Automatic,57602.71,2025-08-30,2025-10-26,Florida,251.7
+Tesla Model Y,White,Electric,Automatic,44061.54,2025-08-10,2025-08-14,New York,360.5
+Tesla Cybertruck,Red,Electric,Automatic,85532.05,2026-03-20,2026-05-06,Massachusetts,261.5
+Tesla Model S,White,Electric,Automatic,120167.19,2025-08-27,2025-09-03,Florida,276.0
+Tesla Model 3,Blue,Electric,Automatic,127010.25,2025-03-22,2025-04-07,California,345.1
+Tesla Model Y,Blue,Electric,Automatic,47924.58,2025-11-22,2025-11-28,New York,332.9
+Tesla Model X,Silver,Electric,Automatic,92079.94,2026-01-20,2026-01-26,Massachusetts,382.8
+Tesla Model S,Midnight Silver,Electric,Automatic,112479.68,2025-06-19,2025-07-21,New York,294.5
+Tesla Model S,White,Electric,Automatic,73261.35,2025-05-14,2025-07-27,New York,252.2
+Tesla Model 3,Midnight Silver,Electric,Automatic,124016.82,2025-10-11,2025-11-11,Washington,369.3
+Tesla Model X,White,Electric,Automatic,140320.01,2025-08-02,2025-09-18,New York,332.5
+Tesla Model X,Grey,Electric,Automatic,45716.47,2025-04-12,2025-05-07,Illinois,350.6
+Tesla Model 3,Silver,Electric,Automatic,105172.67,2025-10-03,2025-10-29,Illinois,391.7
+Tesla Roadster,Blue,Electric,Automatic,131065.54,2025-08-26,2025-11-13,Florida,273.5
+Tesla Model S,Black,Electric,Automatic,52576.24,2025-07-03,2025-08-21,Massachusetts,273.2
+Tesla Model Y,Silver,Electric,Automatic,73671.55,2025-12-25,2026-02-22,Florida,296.2
+Tesla Cybertruck,Red,Electric,Automatic,66443.89,2025-10-25,2025-12-19,Texas,298.6
+Tesla Model S,Red,Electric,Automatic,141114.37,2026-02-02,2026-02-26,Florida,256.1
+Tesla Model 3,White,Electric,Automatic,120253.72,2025-12-17,2026-02-23,Texas,289.6
+Tesla Roadster,Silver,Electric,Automatic,124286.31,2025-09-22,2025-09-29,Massachusetts,308.5
+Tesla Model Y,Silver,Electric,Automatic,91497.98,2025-05-01,2025-07-16,Massachusetts,323.6
+Tesla Model Y,Blue,Electric,Automatic,46627.08,2025-05-12,2025-06-24,New York,271.6
+Tesla Model S,Red,Electric,Automatic,62555.43,2026-01-14,2026-02-09,California,305.9
+Tesla Cybertruck,Red,Electric,Automatic,104218.2,2026-01-18,2026-03-06,California,297.9
+Tesla Model X,White,Electric,Automatic,89256.4,2026-01-11,2026-01-25,Massachusetts,353.2
+Tesla Model Y,Midnight Silver,Electric,Automatic,72796.26,2025-04-14,2025-04-17,Massachusetts,325.9
+Tesla Model Y,Midnight Silver,Electric,Automatic,118189.1,2026-02-25,2026-04-20,Texas,342.0
+Tesla Model 3,Red,Electric,Automatic,73384.96,2025-05-24,2025-07-05,New York,302.9
+Tesla Cybertruck,Silver,Electric,Automatic,41153.43,2025-04-12,2025-04-17,Florida,264.1
+Tesla Model X,Grey,Electric,Automatic,72134.67,2026-03-05,2026-03-10,Florida,370.7
+Tesla Roadster,Black,Electric,Automatic,41964.04,2025-07-21,2025-08-20,Illinois,262.2
+Tesla Roadster,Grey,Electric,Automatic,38077.3,2025-06-09,2025-08-24,New York,308.1
+Tesla Model X,Grey,Electric,Automatic,75162.75,2026-01-19,2026-02-26,Florida,387.7
+Tesla Cybertruck,Blue,Electric,Automatic,87853.96,2026-03-17,2026-05-30,Illinois,363.3
+Tesla Roadster,Black,Electric,Automatic,61852.65,2025-05-11,2025-07-16,Florida,291.0
+Tesla Model Y,Black,Electric,Automatic,131619.45,2025-06-20,2025-07-21,New York,363.7
+Tesla Roadster,Blue,Electric,Automatic,69062.61,2025-09-28,2025-11-25,Florida,388.5
+Tesla Roadster,Red,Electric,Automatic,110233.34,2026-01-22,2026-04-17,Massachusetts,254.7
+Tesla Model 3,Grey,Electric,Automatic,49762.59,2025-05-07,2025-06-03,New York,272.2
+Tesla Model Y,Midnight Silver,Electric,Automatic,73258.43,2025-04-11,2025-06-30,Florida,339.4
+Tesla Model S,White,Electric,Automatic,143559.39,2025-10-18,2025-12-20,Washington,367.7
+Tesla Model 3,Black,Electric,Automatic,102677.22,2025-09-17,2025-09-26,California,386.2
+Tesla Model X,Grey,Electric,Automatic,137966.08,2026-03-19,2026-05-27,Texas,392.2
+Tesla Model Y,Red,Electric,Automatic,141654.58,2026-02-24,2026-05-10,Illinois,281.9
+Tesla Cybertruck,Grey,Electric,Automatic,50884.1,2025-12-27,2026-03-18,California,345.6
+Tesla Model 3,Grey,Electric,Automatic,50161.7,2025-04-18,2025-05-21,Washington,391.5
+Tesla Roadster,Midnight Silver,Electric,Automatic,105553.93,2026-02-04,2026-04-19,New York,292.3
+Tesla Cybertruck,Blue,Electric,Automatic,149762.73,2026-02-28,2026-03-10,Illinois,396.3
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,142171.13,2025-05-20,2025-08-02,New York,304.1
+Tesla Model S,Midnight Silver,Electric,Automatic,101396.31,2025-12-08,2026-02-01,Illinois,292.0
+Tesla Model Y,Midnight Silver,Electric,Automatic,101694.3,2025-07-07,2025-07-23,Illinois,268.2
+Tesla Cybertruck,Grey,Electric,Automatic,69797.38,2025-11-24,2025-12-30,Washington,399.1
+Tesla Model X,Grey,Electric,Automatic,56028.27,2025-07-15,2025-09-15,New York,251.3
+Tesla Roadster,Grey,Electric,Automatic,65562.91,2026-01-20,2026-03-14,California,279.2
+Tesla Model S,Silver,Electric,Automatic,115200.95,2025-11-23,2025-12-20,Massachusetts,272.5
+Tesla Roadster,Grey,Electric,Automatic,136790.36,2025-09-15,2025-11-12,Texas,391.2
+Tesla Model X,Midnight Silver,Electric,Automatic,112390.69,2025-10-17,2025-12-18,Texas,352.3
+Tesla Model X,White,Electric,Automatic,74130.86,2025-04-14,2025-07-05,Massachusetts,258.8
+Tesla Model S,Midnight Silver,Electric,Automatic,49271.6,2025-10-20,2025-10-29,Illinois,265.6
+Tesla Cybertruck,Grey,Electric,Automatic,138424.02,2025-12-16,2026-01-24,Florida,375.9
+Tesla Model X,Silver,Electric,Automatic,50235.53,2025-06-01,2025-06-02,California,290.7
+Tesla Model X,White,Electric,Automatic,103088.61,2025-10-16,2025-11-11,New York,290.3
+Tesla Model X,Blue,Electric,Automatic,73787.0,2025-11-12,2025-12-04,Massachusetts,347.0
+Tesla Cybertruck,White,Electric,Automatic,133733.5,2025-07-28,2025-10-24,Illinois,269.2
+Tesla Cybertruck,Silver,Electric,Automatic,88720.42,2025-10-22,2025-12-15,Texas,265.6
+Tesla Roadster,Blue,Electric,Automatic,78637.11,2026-01-03,2026-02-26,Florida,370.2
+Tesla Model X,Midnight Silver,Electric,Automatic,47512.8,2025-07-11,2025-08-15,New York,306.5
+Tesla Model Y,Silver,Electric,Automatic,36441.93,2025-04-22,2025-07-02,Washington,262.7
+Tesla Model S,Silver,Electric,Automatic,104485.72,2025-08-22,2025-09-23,New York,320.2
+Tesla Roadster,White,Electric,Automatic,132043.11,2025-05-07,2025-08-03,California,256.1
+Tesla Model S,Red,Electric,Automatic,64230.29,2025-12-12,2026-02-14,Illinois,340.6
+Tesla Roadster,Red,Electric,Automatic,91348.29,2025-04-07,2025-07-02,Florida,276.1
+Tesla Model S,Grey,Electric,Automatic,103058.24,2026-02-16,2026-03-02,Massachusetts,250.6
+Tesla Model Y,Black,Electric,Automatic,54654.72,2025-04-24,2025-07-18,Washington,377.1
+Tesla Cybertruck,White,Electric,Automatic,133326.21,2025-12-30,2026-02-25,Florida,351.2
+Tesla Model X,Blue,Electric,Automatic,56592.59,2025-07-11,2025-08-03,California,399.6
+Tesla Model 3,Grey,Electric,Automatic,139820.31,2026-02-24,2026-03-27,New York,320.5
+Tesla Model 3,Blue,Electric,Automatic,113259.18,2026-03-14,2026-03-21,Texas,280.1
+Tesla Cybertruck,Red,Electric,Automatic,132686.62,2026-02-16,2026-03-25,Florida,373.5
+Tesla Model X,Midnight Silver,Electric,Automatic,94463.88,2025-10-07,2025-12-29,New York,398.6
+Tesla Cybertruck,Grey,Electric,Automatic,88221.75,2025-12-11,2026-02-18,Florida,259.1
+Tesla Model 3,Red,Electric,Automatic,61080.57,2025-06-30,2025-09-23,Massachusetts,393.9
+Tesla Model Y,Blue,Electric,Automatic,118541.12,2025-05-18,2025-06-12,Massachusetts,277.4
+Tesla Cybertruck,Grey,Electric,Automatic,54020.11,2026-03-19,2026-04-24,Illinois,394.8
+Tesla Model 3,White,Electric,Automatic,49411.26,2025-05-20,2025-07-04,California,337.0
+Tesla Model X,Midnight Silver,Electric,Automatic,53996.44,2026-02-13,2026-04-18,California,346.7
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,131922.52,2025-12-13,2025-12-26,California,268.3
+Tesla Model X,White,Electric,Automatic,126359.1,2025-06-21,2025-07-18,Illinois,347.4
+Tesla Model X,Grey,Electric,Automatic,137422.91,2026-03-11,2026-03-16,Illinois,387.7
+Tesla Model X,Midnight Silver,Electric,Automatic,92321.41,2025-06-06,2025-06-19,Massachusetts,255.0
+Tesla Model Y,Midnight Silver,Electric,Automatic,129472.79,2025-09-05,2025-11-25,Massachusetts,335.8
+Tesla Model 3,Grey,Electric,Automatic,83703.26,2025-09-13,2025-10-15,Florida,396.1
+Tesla Model Y,Blue,Electric,Automatic,125846.94,2026-02-23,2026-02-26,Washington,253.4
+Tesla Cybertruck,White,Electric,Automatic,79112.6,2026-01-02,2026-03-09,Texas,297.0
+Tesla Roadster,Silver,Electric,Automatic,133202.6,2025-07-04,2025-09-21,Massachusetts,254.3
+Tesla Model X,Black,Electric,Automatic,145419.11,2026-02-10,2026-02-20,Massachusetts,334.5
+Tesla Model S,Silver,Electric,Automatic,50471.17,2025-06-30,2025-08-01,California,323.1
+Tesla Cybertruck,Midnight Silver,Electric,Automatic,121919.57,2025-11-20,2025-12-31,Texas,310.5
+Tesla Model X,Black,Electric,Automatic,49301.49,2025-03-22,2025-05-10,Florida,265.4
+Tesla Model S,Black,Electric,Automatic,148804.76,2025-05-10,2025-07-24,Massachusetts,356.6
+Tesla Roadster,Midnight Silver,Electric,Automatic,63747.55,2025-12-21,2026-02-02,Florida,371.3
+Tesla Model 3,Red,Electric,Automatic,144115.34,2025-04-30,2025-05-07,Florida,271.1
+Tesla Roadster,White,Electric,Automatic,37675.51,2026-02-08,2026-03-10,Florida,281.9
+Tesla Model 3,Blue,Electric,Automatic,134834.11,2026-03-03,2026-03-20,Massachusetts,334.5
+Tesla Model S,Midnight Silver,Electric,Automatic,55706.23,2025-09-01,2025-09-18,Illinois,260.9
+Tesla Roadster,Silver,Electric,Automatic,97177.88,2025-08-06,2025-10-08,Illinois,265.1
+Tesla Model Y,Blue,Electric,Automatic,148644.84,2025-07-19,2025-08-10,Washington,268.2
+Tesla Model 3,Grey,Electric,Automatic,68814.12,2025-08-13,2025-09-27,Washington,387.2
+Tesla Model X,Blue,Electric,Automatic,69843.93,2025-05-12,2025-07-11,Florida,399.6
+Tesla Model X,Silver,Electric,Automatic,106552.04,2025-09-01,2025-11-24,Washington,305.0
+Tesla Model Y,Blue,Electric,Automatic,65733.75,2025-03-24,2025-04-13,Illinois,387.8
+Tesla Model Y,Black,Electric,Automatic,41798.85,2025-11-08,2025-12-25,Florida,358.8
+Tesla Model X,Midnight Silver,Electric,Automatic,70383.11,2025-09-27,2025-11-25,California,265.1
+Tesla Roadster,Blue,Electric,Automatic,52113.8,2025-04-30,2025-06-05,Texas,389.5
+Tesla Model X,Grey,Electric,Automatic,48106.92,2025-06-02,2025-07-06,Florida,254.8
+Tesla Cybertruck,Red,Electric,Automatic,134474.42,2025-08-23,2025-09-19,Massachusetts,306.8
+Tesla Model Y,Grey,Electric,Automatic,94984.53,2025-04-19,2025-07-15,Florida,258.1
+Tesla Model S,Blue,Electric,Automatic,53533.15,2026-01-05,2026-01-08,Massachusetts,329.8
+Tesla Model 3,Silver,Electric,Automatic,54756.83,2025-05-15,2025-06-22,Washington,398.0
+Tesla Model 3,Grey,Electric,Automatic,130896.23,2025-05-31,2025-07-14,Illinois,362.7
+Tesla Roadster,Black,Electric,Automatic,82213.23,2025-08-20,2025-10-12,Texas,360.7
+Tesla Roadster,Black,Electric,Automatic,93768.25,2025-06-12,2025-06-30,Texas,273.9
+Tesla Roadster,White,Electric,Automatic,125314.12,2026-01-01,2026-01-05,Florida,351.0
+Tesla Roadster,Silver,Electric,Automatic,83674.82,2025-09-22,2025-11-12,California,383.3
+Tesla Model S,Midnight Silver,Electric,Automatic,129264.44,2026-02-08,2026-02-24,Massachusetts,312.8
+Tesla Model X,Silver,Electric,Automatic,77602.02,2025-12-30,2026-02-24,Illinois,343.2
+Tesla Cybertruck,White,Electric,Automatic,86562.84,2026-01-24,2026-02-14,Illinois,302.0
+Tesla Model X,Black,Electric,Automatic,100040.29,2025-12-10,2025-12-11,Massachusetts,342.2
+Tesla Cybertruck,Blue,Electric,Automatic,93960.53,2026-02-19,2026-02-20,Texas,278.6
+Tesla Model Y,Grey,Electric,Automatic,146929.59,2025-07-07,2025-08-09,Massachusetts,291.3
+Tesla Model 3,White,Electric,Automatic,116010.05,2025-08-14,2025-08-25,Massachusetts,323.4
+Tesla Model 3,Grey,Electric,Automatic,48456.42,2026-03-10,2026-05-03,Florida,282.0
+Tesla Model X,White,Electric,Automatic,98909.24,2025-09-15,2025-09-20,Texas,267.1
+Tesla Model 3,Blue,Electric,Automatic,66975.78,2026-03-02,2026-03-22,Massachusetts,271.2
+Tesla Model 3,White,Electric,Automatic,93528.88,2025-05-13,2025-05-30,California,332.8
+Tesla Model Y,Black,Electric,Automatic,42677.56,2025-06-27,2025-09-11,Massachusetts,376.4
+Tesla Model X,Blue,Electric,Automatic,137400.78,2025-12-16,2025-12-22,Florida,320.6
+Tesla Roadster,White,Electric,Automatic,69930.61,2025-05-09,2025-08-04,Massachusetts,352.8
+Tesla Roadster,Red,Electric,Automatic,72708.76,2025-12-09,2026-01-16,California,251.8
+Tesla Model Y,Silver,Electric,Automatic,37357.22,2025-11-09,2025-12-10,Massachusetts,375.2
+Tesla Cybertruck,Blue,Electric,Automatic,109180.01,2025-10-13,2025-10-21,Illinois,302.2
+Tesla Roadster,Red,Electric,Automatic,46052.0,2025-05-05,2025-06-29,Texas,284.0
+Tesla Model 3,White,Electric,Automatic,42469.09,2025-07-28,2025-08-02,California,256.7
+Tesla Roadster,Silver,Electric,Automatic,85761.01,2026-02-02,2026-02-17,New York,320.8
+Tesla Model X,Grey,Electric,Automatic,60509.8,2025-12-12,2026-03-09,California,298.4
+Tesla Model X,Midnight Silver,Electric,Automatic,129667.79,2025-11-05,2025-12-31,Illinois,301.0
+Tesla Model S,Silver,Electric,Automatic,125642.84,2025-03-23,2025-06-04,Massachusetts,330.2
+Tesla Cybertruck,Red,Electric,Automatic,48878.8,2026-01-05,2026-02-23,Massachusetts,371.9
+Tesla Model Y,Silver,Electric,Automatic,132183.7,2025-11-20,2026-01-06,Massachusetts,293.0
+Tesla Model X,Grey,Electric,Automatic,100000.58,2025-10-22,2026-01-02,California,332.2
+Tesla Model X,Red,Electric,Automatic,94560.18,2026-02-18,2026-05-18,New York,273.7
+Tesla Model Y,Midnight Silver,Electric,Automatic,132818.85,2025-08-28,2025-10-14,Florida,365.0
+Tesla Model X,Red,Electric,Automatic,120104.02,2025-11-27,2026-02-03,California,342.1
+Tesla Model Y,White,Electric,Automatic,94540.45,2025-09-03,2025-10-12,New York,319.8
+Tesla Cybertruck,White,Electric,Automatic,135177.31,2025-07-31,2025-08-21,Illinois,350.8
+Tesla Model Y,Black,Electric,Automatic,118925.11,2025-12-11,2026-01-29,Washington,385.4
+Tesla Roadster,Blue,Electric,Automatic,85130.48,2025-08-28,2025-10-24,Massachusetts,365.1
+Tesla Cybertruck,Red,Electric,Automatic,75361.51,2025-08-06,2025-09-29,Massachusetts,306.1
+Tesla Model 3,Black,Electric,Automatic,82272.21,2025-10-31,2025-11-07,Florida,361.0
+Tesla Model X,Blue,Electric,Automatic,39715.97,2025-05-03,2025-06-23,California,277.5
+Tesla Cybertruck,White,Electric,Automatic,82458.27,2025-07-01,2025-09-16,New York,304.0
+Tesla Model S,Black,Electric,Automatic,71406.21,2025-05-15,2025-08-05,Massachusetts,341.3
+Tesla Model Y,Silver,Electric,Automatic,87160.09,2025-07-12,2025-08-15,New York,277.2
+Tesla Model Y,Blue,Electric,Automatic,68200.29,2025-07-18,2025-09-19,New York,344.9
+Tesla Model X,Grey,Electric,Automatic,59838.69,2025-07-29,2025-09-17,California,353.9
+Tesla Cybertruck,Grey,Electric,Automatic,148059.72,2025-03-28,2025-06-21,Massachusetts,300.4
+Tesla Model S,Midnight Silver,Electric,Automatic,67568.64,2026-01-20,2026-03-31,Massachusetts,316.2
+Tesla Cybertruck,White,Electric,Automatic,43379.32,2025-10-24,2025-12-28,New York,290.7
+Tesla Roadster,Red,Electric,Automatic,54699.13,2025-12-07,2026-01-08,Washington,305.5
+Tesla Model Y,Blue,Electric,Automatic,116116.84,2025-09-20,2025-12-01,Washington,278.7
+Tesla Roadster,Silver,Electric,Automatic,129814.7,2026-01-25,2026-04-25,Massachusetts,399.1
