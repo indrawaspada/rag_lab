@@ -72,7 +72,7 @@ Your response should be detailed and specific, citing information from the conte
             })
             response.raise_for_status()
             
-            with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.html') as temp_file:
+            with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.html', encoding='utf-8') as temp_file:
                 temp_file.write(response.text)
                 temp_file_path = temp_file.name
 
