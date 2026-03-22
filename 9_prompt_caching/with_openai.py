@@ -3,7 +3,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
-from langchain_text_splitters import CharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitter, RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
 from langchain_classic.chains import RetrievalQA
@@ -19,8 +19,8 @@ from langchain_community.document_loaders import BSHTMLLoader
 
 # Load environment variables from .env file automatically
 load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
-CHUNK_SIZE = 300
-CHUNK_OVERLAP = 50
+CHUNK_SIZE = 200  # Smaller chunks = more splits
+CHUNK_OVERLAP = 30  # Less overlap for smaller chunks
 MAX_TOKENS = 15000
 MODEL_NAME = "gpt-4o-mini"
 TEMPERATURE = 0.4
@@ -87,16 +87,23 @@ Your response should be detailed and specific, citing information from the conte
             documents = loader.load()
             os.unlink(temp_file_path)
 
-            # Split text into chunks
-            text_splitter = CharacterTextSplitter(
+            # Debug: Show extracted content length
+            total_content = "\n".join([doc.page_content for doc in documents])
+            print(f"Total content extracted: {len(total_content)} characters")
+            
+            # Split text into chunks using recursive splitter for better paragraph-aware splitting
+            text_splitter = RecursiveCharacterTextSplitter(
                 chunk_size=CHUNK_SIZE,
-                chunk_overlap=CHUNK_OVERLAP
+                chunk_overlap=CHUNK_OVERLAP,
+                separators=["\n\n", "\n", " ", ""]  # Try to split on paragraphs first
             )
             texts = text_splitter.split_documents(documents)
             
             process_time = time.time() - start_time
             print(f"Website processed in {process_time:.2f} seconds")
             print(f"Generated {len(texts)} text chunks")
+            if texts:
+                print(f"Average chunk size: {sum(len(t.page_content) for t in texts) // len(texts)} characters")
             
             return texts
             
