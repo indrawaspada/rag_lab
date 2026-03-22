@@ -2,19 +2,19 @@ import os
 from dotenv import load_dotenv
 import gradio as gr
 from PyPDF2 import PdfReader
-from langchain.text_splitter import CharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
-from langchain.chains import RetrievalQA, LLMChain
-from langchain.prompts import PromptTemplate
+from langchain_classic.chains import RetrievalQA, LLMChain
+from langchain_core.prompts import PromptTemplate
 import pymupdf as fitz  # Changed import
 import pytesseract
 from PIL import Image
 import io
 import pandas as pd
 
-# Load environment variables
-load_dotenv()
+# Load environment variables from .env file
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 # Constants
 CHUNK_SIZE = 1000
